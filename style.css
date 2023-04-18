@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+}
+
+h3{
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+    color: crimson;
+}
+
+p{
+    border: 50px solid white;
+    border-radius: 5px;
+    border-color: rgb(226, 159, 43);
+    background-color: rgb(226, 159, 43);
+    outline: 2px solid #000;
+    align-items: center;
+}
